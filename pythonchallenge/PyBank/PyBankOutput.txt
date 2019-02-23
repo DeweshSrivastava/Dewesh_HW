@@ -1,0 +1,4 @@
+Total profits/losses is 38382578
+Average change is -2315.1176470588234
+The greatest increase is Feb-2012  1926159
+The greatest decrease is Sep-2013  -2196167
